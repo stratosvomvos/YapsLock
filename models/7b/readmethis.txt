@@ -1,0 +1,1 @@
+put the model here (tweaked tinylamma1b) , or just get the whole app from releases.
